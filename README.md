@@ -1,3 +1,3 @@
 # my_resome2
 
-![alt text](logo.jpg)
+![alt text](favicon.png)
