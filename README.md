@@ -2,8 +2,8 @@
 
 <img 
   src="img/logo1.png" 
-  alt="منظره کوهستان" 
-  width="400" 
-  height="300"
+  alt="not logo" 
+  width="200" 
+  height="200"
   style="border: 2px solid #eaeaea;"
 />
