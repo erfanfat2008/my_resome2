@@ -1,7 +1,7 @@
 # my_resome2
 
 <img 
-  src="logo.jpg" 
+  src="img/logo1.png" 
   alt="منظره کوهستان" 
   width="400" 
   height="300"
